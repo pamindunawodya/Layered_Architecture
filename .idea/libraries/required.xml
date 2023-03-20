@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="required">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/lk/ijse/pos/lib/required" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/hibernate-core-5.6.0.Final-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/mysql-connector-java-8.0.24-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/lk/ijse/pos/lib/required" recursive="false" />
+  </library>
+</component>
